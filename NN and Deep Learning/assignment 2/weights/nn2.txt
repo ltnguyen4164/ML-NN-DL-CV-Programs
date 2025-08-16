@@ -1,0 +1,19 @@
+layers: 3
+units: 4 2 3
+start layer
+start bias
+0.2 -0.3
+end bias
+start w
+0.2 -0.12 -0.26 0.13
+-0.07 0.23 -0.1 -0.04
+end w
+start layer
+start bias
+-0.25 -0.2 0.1
+end bias
+start w
+0.14 -0.07
+0.23 0.2
+-0.05	-0.12
+end w

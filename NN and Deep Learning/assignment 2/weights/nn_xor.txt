@@ -1,0 +1,17 @@
+layers: 3
+units: 2 2 1
+start layer
+start bias
+-0.5 -1.5
+end bias
+start w
+1 1
+1 1
+end w
+start layer
+start bias
+-0.5
+end bias
+start w
+1 -1
+end w
